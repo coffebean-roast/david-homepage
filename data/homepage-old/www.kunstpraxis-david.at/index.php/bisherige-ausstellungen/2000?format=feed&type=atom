@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-de">
+	<title type="text">Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 2000</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at"/>
+	<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2000</id>
+	<updated>2026-05-17T09:10:53+00:00</updated>
+	<author>
+		<name>Kunstpraxis David</name>
+		<email>m@photofaltner.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2000?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Roman BUDER</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2000/86-roman-buder"/>
+		<published>2012-02-24T13:13:09+00:00</published>
+		<updated>2012-02-24T13:13:09+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2000/86-roman-buder</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2000-1-buder-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2000-1-buder-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</content>
+		<category term="2000" />
+	</entry>
+	<entry>
+		<title>Diplomklasse für  Grafik-Design</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2000/87-diplomklasse-fuer-grafik-design"/>
+		<published>2012-02-24T13:14:01+00:00</published>
+		<updated>2012-02-24T13:14:01+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2000/87-diplomklasse-fuer-grafik-design</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2000-2-pavillon-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2000-2-pavillon-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</content>
+		<category term="2000" />
+	</entry>
+	<entry>
+		<title>Peter ATANASOV &amp; Christian KVASNICKA</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2000/88-peter-atanasov-christian-kvasnicka"/>
+		<published>2012-02-24T13:14:45+00:00</published>
+		<updated>2012-02-24T13:14:45+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2000/88-peter-atanasov-christian-kvasnicka</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2000-3-atanasov-kvasnicka-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2000-3-atanasov-kvasnicka-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</content>
+		<category term="2000" />
+	</entry>
+</feed>

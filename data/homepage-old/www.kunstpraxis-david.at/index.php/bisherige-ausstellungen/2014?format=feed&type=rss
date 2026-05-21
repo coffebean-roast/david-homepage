@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 2014</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2014</link>
+		<lastBuildDate>Sun, 17 May 2026 09:11:47 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2014?format=feed&amp;type=rss"/>
+		<language>de-de</language>
+		<managingEditor>m@photofaltner.com (Kunstpraxis David)</managingEditor>
+		<item>
+			<title>Gerhard Flekatsch</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2014/129-gerhard-flekatsch</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2014/129-gerhard-flekatsch</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/2014_2_gerhard-flekatsch_k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2014</category>
+			<pubDate>Tue, 11 Nov 2014 12:45:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>Robert Zielasko</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2014/131-robert-zielasko</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2014/131-robert-zielasko</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2014_3_robert-zielasko.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2014</category>
+			<pubDate>Wed, 01 Apr 2015 10:11:26 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

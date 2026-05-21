@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-de">
+	<title type="text">Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 2013</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at"/>
+	<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013</id>
+	<updated>2026-05-17T09:11:18+00:00</updated>
+	<author>
+		<name>Kunstpraxis David</name>
+		<email>m@photofaltner.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Robert Weber</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/126-robert-wagner"/>
+		<published>2013-03-08T13:48:04+00:00</published>
+		<updated>2013-03-08T13:48:04+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/126-robert-wagner</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2012-4-weber.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2012-4-weber.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2013" />
+	</entry>
+	<entry>
+		<title>Friederike WAGNER</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/127-friederike-wagner"/>
+		<published>2013-06-12T11:40:33+00:00</published>
+		<updated>2013-06-12T11:40:33+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/127-friederike-wagner</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2013-1-wagner-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2013-1-wagner-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2013" />
+	</entry>
+	<entry>
+		<title>Linde Waber</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/128-linde-waber"/>
+		<published>2013-11-15T07:38:27+00:00</published>
+		<updated>2013-11-15T07:38:27+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/128-linde-waber</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2013-2-waber-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2013-2-waber-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2013" />
+	</entry>
+	<entry>
+		<title> Christian KVASNICKA</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/130-christian-kvasnicka"/>
+		<published>2014-11-11T12:53:28+00:00</published>
+		<updated>2014-11-11T12:53:28+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/130-christian-kvasnicka</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2013-3-kvasnicka.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2013-3-kvasnicka.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2013" />
+	</entry>
+</feed>

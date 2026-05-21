@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-de">
+	<title type="text">Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 2015</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at"/>
+	<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2015</id>
+	<updated>2026-05-17T09:11:48+00:00</updated>
+	<author>
+		<name>Kunstpraxis David</name>
+		<email>m@photofaltner.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2015?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Fritz SIMAK – Uwe B. SLEYTR</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2015/132-fritz-simak-uwe-b-sleytr"/>
+		<published>2015-06-17T13:08:39+00:00</published>
+		<updated>2015-06-17T13:08:39+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2015/132-fritz-simak-uwe-b-sleytr</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2015-1-simak.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2015-1-simak.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2015" />
+	</entry>
+	<entry>
+		<title>Hannes Turba</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2015/133-hannes-turba"/>
+		<published>2015-09-16T09:53:40+00:00</published>
+		<updated>2015-09-16T09:53:40+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2015/133-hannes-turba</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2015-2-turba-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2015-2-turba-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2015" />
+	</entry>
+	<entry>
+		<title>ALEXANDER KARNER</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2015/134-alexander-karner"/>
+		<published>2015-12-02T11:37:56+00:00</published>
+		<updated>2015-12-02T11:37:56+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2015/134-alexander-karner</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2015-3-karner-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2015-3-karner-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2015" />
+	</entry>
+	<entry>
+		<title>Beate Maria Platz</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2015/135-beate-maria-platz"/>
+		<published>2016-03-16T12:31:31+00:00</published>
+		<updated>2016-03-16T12:31:31+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2015/135-beate-maria-platz</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2015-4-platz.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2015-4-platz.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2015" />
+	</entry>
+</feed>

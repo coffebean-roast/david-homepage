@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-de">
+	<title type="text">Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 1992</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at"/>
+	<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1992</id>
+	<updated>2026-05-17T09:10:37+00:00</updated>
+	<author>
+		<name>Kunstpraxis David</name>
+		<email>m@photofaltner.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1992?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Gerhard FLEKATSCH</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1992/62-gerhard-flekatsch"/>
+		<published>2012-02-24T10:44:05+00:00</published>
+		<updated>2012-02-24T10:44:05+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1992/62-gerhard-flekatsch</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1992-1v_flekatsch-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1992-1v_flekatsch-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="1992" />
+	</entry>
+	<entry>
+		<title>Fabio ZOLLY</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1992/63-fabio-zolly"/>
+		<published>2012-02-24T10:44:58+00:00</published>
+		<updated>2012-02-24T10:44:58+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1992/63-fabio-zolly</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1992-2_zolly-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1992-2_zolly-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="1992" />
+	</entry>
+	<entry>
+		<title>Jörg MENGE und  Helge WARME</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1992/64-joerg-menge-und-helge-warme"/>
+		<published>2012-02-24T10:45:51+00:00</published>
+		<updated>2012-02-24T10:45:51+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1992/64-joerg-menge-und-helge-warme</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1992-3v_menge-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1992-3v_menge-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="1992" />
+	</entry>
+	<entry>
+		<title>Schristian BELSCHAN  Michael EIPELDAUER</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1992/65-christian-belschan-michael-eipeldauer"/>
+		<published>2012-02-24T10:46:53+00:00</published>
+		<updated>2012-02-24T10:46:53+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1992/65-christian-belschan-michael-eipeldauer</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1992-4r_belschan-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1992-4r_belschan-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="1992" />
+	</entry>
+</feed>

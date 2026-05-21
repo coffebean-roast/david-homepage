@@ -1,0 +1,115 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+    color: #444;
+    background-color: #f9f9f9;
+}
+
+header {
+    background: #fff;
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+h1 {
+    font-weight: 300;
+    letter-spacing: 2px;
+    color: #222;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #666;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    color: #000;
+}
+
+main {
+    padding: 3rem 1rem;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.portal-container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.portal-card {
+    display: block;
+    width: 300px;
+    padding: 3rem 2rem;
+    background: #fff;
+    text-align: center;
+    text-decoration: none;
+    color: #444;
+    border: 1px solid #eee;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.portal-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    border-color: #ddd;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 3rem;
+}
+
+@media (max-width: 768px) {
+    .gallery-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.accordion {
+    list-style: none;
+    padding: 0;
+}
+
+.accordion-header {
+    width: 100%;
+    text-align: left;
+    background: #eee;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.accordion-header:hover {
+    background: #ddd;
+}
+
+.accordion-content {
+    padding: 10px;
+    border: 1px solid #eee;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.8rem;
+    color: #888;
+}

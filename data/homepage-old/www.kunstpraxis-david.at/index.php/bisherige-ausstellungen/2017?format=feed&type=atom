@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-de">
+	<title type="text">Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 2017</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at"/>
+	<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017</id>
+	<updated>2026-05-17T09:11:52+00:00</updated>
+	<author>
+		<name>Kunstpraxis David</name>
+		<email>m@photofaltner.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Brigitte Sasshofer</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/140-brigitte-sasshofer"/>
+		<published>2017-04-13T07:24:36+00:00</published>
+		<updated>2017-04-13T07:24:36+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/140-brigitte-sasshofer</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2017-1-sasshofer-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/2017-1-sasshofer-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2017" />
+	</entry>
+	<entry>
+		<title>Rainer WÖLZL</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/141-rainer-woelzl"/>
+		<published>2017-10-10T10:14:19+00:00</published>
+		<updated>2017-10-10T10:14:19+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/141-rainer-woelzl</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2017-2-rainer-woetzl-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2017-2-rainer-woetzl-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2017" />
+	</entry>
+	<entry>
+		<title>ROBERT WEBER</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/142-robert-weber"/>
+		<published>2018-01-17T07:39:56+00:00</published>
+		<updated>2018-01-17T07:39:56+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/142-robert-weber</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2017-3-weber-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2017-3-weber-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="2017" />
+	</entry>
+</feed>

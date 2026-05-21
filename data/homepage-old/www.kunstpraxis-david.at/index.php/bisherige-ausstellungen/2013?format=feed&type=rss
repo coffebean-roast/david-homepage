@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 2013</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013</link>
+		<lastBuildDate>Sun, 17 May 2026 09:11:17 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013?format=feed&amp;type=rss"/>
+		<language>de-de</language>
+		<managingEditor>m@photofaltner.com (Kunstpraxis David)</managingEditor>
+		<item>
+			<title>Robert Weber</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/126-robert-wagner</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/126-robert-wagner</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2012-4-weber.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2013</category>
+			<pubDate>Fri, 08 Mar 2013 13:48:04 +0000</pubDate>
+		</item>
+		<item>
+			<title>Friederike WAGNER</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/127-friederike-wagner</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/127-friederike-wagner</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/2013-1-wagner-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2013</category>
+			<pubDate>Wed, 12 Jun 2013 11:40:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Linde Waber</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/128-linde-waber</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/128-linde-waber</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/2013-2-waber-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2013</category>
+			<pubDate>Fri, 15 Nov 2013 07:38:27 +0000</pubDate>
+		</item>
+		<item>
+			<title> Christian KVASNICKA</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/130-christian-kvasnicka</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2013/130-christian-kvasnicka</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/2013-3-kvasnicka.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2013</category>
+			<pubDate>Tue, 11 Nov 2014 12:53:28 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

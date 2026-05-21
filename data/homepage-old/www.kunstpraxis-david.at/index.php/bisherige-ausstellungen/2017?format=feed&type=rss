@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 2017</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017</link>
+		<lastBuildDate>Sun, 17 May 2026 09:11:51 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017?format=feed&amp;type=rss"/>
+		<language>de-de</language>
+		<managingEditor>m@photofaltner.com (Kunstpraxis David)</managingEditor>
+		<item>
+			<title>Brigitte Sasshofer</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/140-brigitte-sasshofer</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/140-brigitte-sasshofer</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/2017-1-sasshofer-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2017</category>
+			<pubDate>Thu, 13 Apr 2017 07:24:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>Rainer WÖLZL</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/141-rainer-woelzl</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/141-rainer-woelzl</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2017-2-rainer-woetzl-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2017</category>
+			<pubDate>Tue, 10 Oct 2017 10:14:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>ROBERT WEBER</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/142-robert-weber</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2017/142-robert-weber</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2017-3-weber-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2017</category>
+			<pubDate>Wed, 17 Jan 2018 07:39:56 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

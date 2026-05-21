@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-de">
+	<title type="text">Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 1993</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at"/>
+	<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1993</id>
+	<updated>2026-05-17T09:10:39+00:00</updated>
+	<author>
+		<name>Kunstpraxis David</name>
+		<email>m@photofaltner.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1993?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Hans LENES</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1993/66-hans-lenes"/>
+		<published>2012-02-24T10:47:39+00:00</published>
+		<updated>2012-02-24T10:47:39+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1993/66-hans-lenes</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1993-1_lens-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1993-1_lens-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</content>
+		<category term="1993" />
+	</entry>
+	<entry>
+		<title>Regina HADRABA</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1993/67-regina-hadraba"/>
+		<published>2012-02-24T10:48:43+00:00</published>
+		<updated>2012-02-24T10:48:43+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1993/67-regina-hadraba</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1993-2v_hadraba-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1993-2v_hadraba-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="1993" />
+	</entry>
+	<entry>
+		<title>LI Yan Pin</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1993/68-li-yan-pin"/>
+		<published>2012-02-24T10:49:47+00:00</published>
+		<updated>2012-02-24T10:49:47+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1993/68-li-yan-pin</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1993-3v_li-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1993-3v_li-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</content>
+		<category term="1993" />
+	</entry>
+</feed>

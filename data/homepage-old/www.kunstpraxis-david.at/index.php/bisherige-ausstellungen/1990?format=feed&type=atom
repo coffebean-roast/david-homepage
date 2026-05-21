@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-de">
+	<title type="text">Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 1990</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at"/>
+	<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1990</id>
+	<updated>2026-05-17T09:10:33+00:00</updated>
+	<author>
+		<name>Kunstpraxis David</name>
+		<email>m@photofaltner.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1990?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Christian KVASNICKA</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1990/54-christian-kvasnicka"/>
+		<published>2012-02-24T09:30:44+00:00</published>
+		<updated>2012-02-24T09:30:44+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1990/54-christian-kvasnicka</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1990-1r_kvasnicka-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1990-1r_kvasnicka-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="1990" />
+	</entry>
+	<entry>
+		<title>Dragoslav MILIC</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1990/55-dragoslav-milic"/>
+		<published>2012-02-24T09:31:40+00:00</published>
+		<updated>2012-02-24T09:31:40+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1990/55-dragoslav-milic</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1990-2v_milic-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1990-2v_milic-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="1990" />
+	</entry>
+	<entry>
+		<title>Geogia CREIMER</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1990/56-geogia-creimer"/>
+		<published>2012-02-24T09:34:06+00:00</published>
+		<updated>2012-02-24T09:34:06+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1990/56-geogia-creimer</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1990-3-creimer-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1990-3-creimer-k.jpg&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; align=&quot;LEFT&quot;&gt; &lt;/p&gt;
+</content>
+		<category term="1990" />
+	</entry>
+	<entry>
+		<title>Beppo PLIEM</title>
+		<link rel="alternate" type="text/html" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1990/57-beppo-pliem"/>
+		<published>2012-02-24T10:39:27+00:00</published>
+		<updated>2012-02-24T10:39:27+00:00</updated>
+		<id>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1990/57-beppo-pliem</id>
+		<author>
+			<name>Meinrad Faltner</name>
+			<email>m@photofaltner.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1990-4-pliem-k.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.kunstpraxis-david.at/images/thumbnails/1990-4-pliem-k.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="1990" />
+	</entry>
+</feed>

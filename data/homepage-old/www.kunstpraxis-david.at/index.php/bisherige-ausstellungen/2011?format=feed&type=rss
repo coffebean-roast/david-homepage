@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 2011</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2011</link>
+		<lastBuildDate>Sun, 17 May 2026 09:11:14 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2011?format=feed&amp;type=rss"/>
+		<language>de-de</language>
+		<managingEditor>m@photofaltner.com (Kunstpraxis David)</managingEditor>
+		<item>
+			<title>Margot Holzapfel</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2011/40-margot-holzapfel</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2011/40-margot-holzapfel</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/holzapfel211-3-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2011</category>
+			<pubDate>Tue, 14 Feb 2012 12:01:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>Timo Huber</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2011/41-timo-huber</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2011/41-timo-huber</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/huber2011-3-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2011</category>
+			<pubDate>Tue, 14 Feb 2012 12:27:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>Urban GRÜNFELDER</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2011/119-urban-gruenfelder</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2011/119-urban-gruenfelder</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/gruenfelder2004-k.jpg" /></p><p style="margin-bottom: 0cm; line-height: 150%;" align="LEFT"> </p>
+]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2011</category>
+			<pubDate>Fri, 24 Feb 2012 15:12:10 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

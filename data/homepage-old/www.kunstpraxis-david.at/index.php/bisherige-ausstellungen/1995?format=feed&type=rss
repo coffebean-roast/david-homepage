@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 1995</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1995</link>
+		<lastBuildDate>Sun, 17 May 2026 09:10:42 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1995?format=feed&amp;type=rss"/>
+		<language>de-de</language>
+		<managingEditor>m@photofaltner.com (Kunstpraxis David)</managingEditor>
+		<item>
+			<title>Peter ATANASOV</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1995/72-peter-atanasov</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1995/72-peter-atanasov</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/1995-1-atanasov-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>1995</category>
+			<pubDate>Fri, 24 Feb 2012 10:56:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>Liesl SPURNY-SCHWARZMÜLLER</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1995/73-lisl-spurny-schwarzmueller</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/1995/73-lisl-spurny-schwarzmueller</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/1995-2-spurny-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>1995</category>
+			<pubDate>Fri, 24 Feb 2012 10:57:27 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

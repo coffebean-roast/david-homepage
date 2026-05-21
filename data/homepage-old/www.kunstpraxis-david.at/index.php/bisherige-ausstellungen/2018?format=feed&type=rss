@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 2018</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2018</link>
+		<lastBuildDate>Sun, 17 May 2026 09:11:53 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2018?format=feed&amp;type=rss"/>
+		<language>de-de</language>
+		<managingEditor>m@photofaltner.com (Kunstpraxis David)</managingEditor>
+		<item>
+			<title>CHEN XI</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2018/143-chen-xi</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2018/143-chen-xi</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/kunstraum/thumbs/chen-xi-einladung-k.jpg" /></p><p style="text-align: center;"> </p>
+]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2018</category>
+			<pubDate>Wed, 11 Apr 2018 03:47:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>SOSHANA</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2018/144-soshana</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2018/144-soshana</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2018-2-soshana-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2018</category>
+			<pubDate>Sun, 09 Sep 2018 05:06:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>Martin STOMMEL</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2018/145-martin-stommel</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2018/145-martin-stommel</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2018-3-stommel-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2018</category>
+			<pubDate>Tue, 02 Oct 2018 10:22:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>MICHAEL ENDLICHER</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2018/146-michael-endlicher</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2018/146-michael-endlicher</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/kunstraum/thumbs/2018-4-endlicherl-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2018</category>
+			<pubDate>Thu, 24 Jan 2019 07:07:40 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

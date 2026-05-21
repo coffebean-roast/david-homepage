@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Prim-Dr.-David-Psychiatrie-Neurologie-1130-Wien - 2012</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2012</link>
+		<lastBuildDate>Sun, 17 May 2026 09:11:16 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2012?format=feed&amp;type=rss"/>
+		<language>de-de</language>
+		<managingEditor>m@photofaltner.com (Kunstpraxis David)</managingEditor>
+		<item>
+			<title>Leander KAISER</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2012/123-leander-kaiser</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2012/123-leander-kaiser</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/kaiser2012-1-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2012</category>
+			<pubDate>Fri, 01 Jun 2012 11:54:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>Rudolf Schweiger</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2012/124-rudolf-schweiger</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2012/124-rudolf-schweiger</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/2012-2-schweiger-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2012</category>
+			<pubDate>Fri, 28 Sep 2012 11:32:59 +0000</pubDate>
+		</item>
+		<item>
+			<title>Michael ENDLICHER</title>
+			<link>http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2012/125-michael-endlicher</link>
+			<guid isPermaLink="true">http://www.kunstpraxis-david.at/index.php/bisherige-ausstellungen/2012/125-michael-endlicher</guid>
+			<description><![CDATA[<p><img src="http://www.kunstpraxis-david.at/images/thumbnails/2012-3-endlicher-k.jpg" /></p>]]></description>
+			<author>m@photofaltner.com (Meinrad Faltner)</author>
+			<category>2012</category>
+			<pubDate>Sat, 08 Dec 2012 13:31:18 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
